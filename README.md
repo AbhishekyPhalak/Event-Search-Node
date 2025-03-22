@@ -4,6 +4,10 @@ A dynamic, server-side application that allows users to search for events using 
 
 ### Screenshot
 
+![image](https://github.com/user-attachments/assets/01c737a2-e700-438c-9af6-fb9c0361bde6)
+
+![image](https://github.com/user-attachments/assets/6aa95cb9-d5ad-4c89-9573-dada53331f3e)
+
 ### Features
 
 - **Event Search**: Allows users to search for events based on various parameters like keyword, category, and location.
